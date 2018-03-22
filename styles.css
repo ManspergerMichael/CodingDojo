@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#container{
+    width:970px;
+    background-color: rgb(72, 72, 243)
+}
+
+#textSize{
+    padding-left: 80%;
+    color:whitesmoke;
+}
+
+#logo{
+    display: inline-block;
+}
+#search{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 30px;
+    border-color: rgb(58, 57, 57);
+    vertical-align:bottom;
+    margin-left: 15%;
+    margin-bottom: 30px;
+}
+#searchBox{
+    display: inline-block;
+
+}
+#goBtn{
+    display: inline-block;
+    height: inherit;
+}
+#searchText{
+    height:30px;
+   
+}
